@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.1"  type="library" method="upgrade">
+	<name>PHP-JWT</name>
+	<libraryname>jwt</libraryname>
+	<author>Artem Vasilev - Webmasterskaya</author>
+	<authorEmail>dev@webmasterskaya.xyz</authorEmail>
+	<authorUrl>https://webmasterskaya.xyz</authorUrl>
+	<creationDate>Aug 2022</creationDate>
+	<copyright>Copyright (C) 2022 Webmasterskaya. All rights reserved.</copyright>
+	<license>MIT; see LICENSE file</license>
+	<version>__DEPLOY_VERSION__</version>
+	<description>PHP-JWT library wrapper for Joomla</description>
+
+	<files>
+		<folder>vendor</folder>
+		<filename>LICENSE</filename>
+	</files>
+</extension>
